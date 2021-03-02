@@ -14,6 +14,8 @@ I am studying Systems Analysis and Development.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruanlsdn&layout=compact)](https://github.com/ruanlsdn/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ruanlsdn&repo=github-readme-stats)](https://github.com/ruanlsdn/github-readme-stats)
+
 ### 🔧 Tools:
 <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=amd&logoColor=white"/><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=amd&logoColor=white"/><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=amd&logoColor=white"/><img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=amd&logoColor=white"/><img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=amd&logoColor=white"/>
 
